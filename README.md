@@ -46,3 +46,5 @@ With my Bachelor's Degree in supply chain and my current Master's degree focusin
 ## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/rizveea)
+
+(My picture is of my cats Charlie and Nora!)
