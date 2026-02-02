@@ -2,10 +2,12 @@
 
   **Digital Supply Chain & Procurement Specialist**
 
-Welcome to my page! 
-I am currently a graduate student at UT Austin's Mcombs for Business Analytics and I am expected to graduate May 2026. My Bachelor's Degree is in Supply Chain from the Rutger's School Of Business. Previously I was in charge of analytics and AI discovery at Colgate-Palmolive within the Global Procurement team.
+Welcome to my Github page! 
+I am currently a graduate student at UT Austin's Mcombs for Business Analytics and with an expected graduation of May 2026. Previously I was in charge of analytics and AI implementation at Colgate-Palmolive within the Global Procurement team. 
 
-With my Bachelor's Degree in supply chain and my current Master's degree focusing on business analytics, I often find myself building data-driven AI/ML solutions for supply chain optimization, digital procurement, and various forms of Business intelligence. My projects combines my classroom content such as mathematical optimization, machine learning, and modern data engineering to solve complex operational challenges.
+With My current Master's degree focusing on business analytics, my previous digital procurement role and my Bachelor's Degree in supply chain , I often find myself vibe coding data-driven AI/ML solutions for supply chain optimization, digital procurement, and various forms of Business intelligence. My projects combines my classroom content such as mathematical optimization, machine learning, and modern data engineering to solve complex operational challenges. 
+
+Outside of my career you will find me investing in the Blockchain and taking tons of photos! 
 
 ---
 
@@ -47,4 +49,4 @@ With my Bachelor's Degree in supply chain and my current Master's degree focusin
 
 - [LinkedIn](https://linkedin.com/in/rizveea)
 
-(My picture is of my cats Charlie and Nora!)
+(My profile picture is of my cats Charlie and Nora!)
