@@ -1,8 +1,11 @@
 # Hi, I'm Rizvee Ahmed
 
-**Supply Chain Analytics & Data Science Professional**
+  **Digital Supply Chain & Procurement Specialist**
 
-I build data-driven solutions for supply chain optimization, demand forecasting, and business intelligence. My work combines mathematical optimization, machine learning, and modern data engineering to solve complex operational challenges.
+Welcome to my page! 
+I am currently a graduate student at UT Austin's Mcombs for Business Analytics and I am expected to graduate May 2026. My Bachelor's Degree is in Supply Chain from the Rutger's School Of Business. Previously I was in charge of analytics and AI discovery at Colgate-Palmolive within the Global Procurement team.
+
+With my Bachelor's Degree in supply chain and my current Master's degree focusing on business analytics, I often find myself building data-driven AI/ML solutions for supply chain optimization, digital procurement, and various forms of Business intelligence. My projects combines my classroom content such as mathematical optimization, machine learning, and modern data engineering to solve complex operational challenges.
 
 ---
 
