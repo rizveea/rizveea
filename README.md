@@ -35,6 +35,7 @@ Outside of my career you will find me investing in the Blockchain and taking ton
 - **[Snowflake Data Warehousing](https://github.com/rizveea/Snowflake_Data_Warehousing)** - Medallion architecture (Bronze/Silver/Gold) with Cortex AI integration
 
 ### Machine Learning & Analytics
+- **[Federal Procurement Anomaly Detection (Lumina)](https://luminagovtspend.vercel.app/)** - Full-stack application for detecting risk in government spending using unsupervised ML (Isolation Forest), statistical benchmarking, and a Next.js/FastAPI dashboard
 - **[NLP Job Market Analysis](https://github.com/rizveea/NLP_Job_Market_Analysis)** - Resume-to-job matching using TF-IDF, LDA, and semantic embeddings
 - **[Housing Price Prediction](https://github.com/rizveea/Housing_Price_Prediction_Model)** - Ensemble methods (Random Forest, GBM) for real estate valuation
 - **[NutriVision AI](https://github.com/rizveea/NutriVision_AI_Dietician)** - CNN-based food classification with health analysis dashboard
