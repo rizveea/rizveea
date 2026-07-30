@@ -1,11 +1,14 @@
 # Hi, I'm Rizvee Ahmed
 
-  **Digital Supply Chain & Procurement Specialist**
+  **Operations AI/ML Engineering**
 
 Welcome to my Github page! 
-I am currently a graduate student at UT Austin's McCombs for Business Analytics and with an expected graduation of May 2026. Previously I was in charge of analytics and AI implementation at Colgate-Palmolive within the Global Procurement team. 
+I am currently a graduate from UT Austin's McCombs for Business Analytics class of 2026. 
+In my previous role I was in charge of analytics and AI implementation at Colgate-Palmolive within the Global Procurement team. 
 
-With my current Master's degree focusing on business analytics, my previous digital procurement role and my Bachelor's Degree in supply chain , I often find myself vibe coding data-driven AI/ML solutions for supply chain optimization, digital procurement, and various forms of Business intelligence. My projects combines my classroom content such as mathematical optimization, machine learning, and modern data engineering to solve complex operational challenges. 
+With my MSBA focusing on applying AI/ML to real word problems, my previous digital procurement role and my Bachelor's Degree in supply chain, I often find myself creating data-driven AI/ML solutions for operations, Supply Chain Management, and other various areas of Business Intelligence.
+
+My projects combines my classroom content such as mathematical optimization, machine learning, and modern AI engineering to solve complex operational challenges. 
 
 Outside of my career you will find me investing in the Blockchain and taking tons of photos! 
 
@@ -16,6 +19,7 @@ Outside of my career you will find me investing in the Blockchain and taking ton
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, R, SQL |
+| **AI Engineering** | LangChain/LangGraph, OpenClaw, Neo4j, RAG, GraphRAG |
 | **Optimization** | Gurobi, Linear/Quadratic Programming, CVaR |
 | **Machine Learning** | scikit-learn, TensorFlow, Random Forest, GBM |
 | **Data Engineering** | Snowflake, Medallion Architecture, ETL Pipelines |
